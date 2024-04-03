@@ -1,20 +1,15 @@
 <!-- ASCII Art Banner -->
 <div align="center">
-  <img src="https://img.shields.io/badge/imp1338-Fire%20Coder-red?style=for-the-badge" alt="imp1338">
-</div>
-
-<!-- GitHub Profile Header -->
-<div align="center">
-  <img src="https://media.giphy.com/media/1BPH1PIiN7KT8/giphy.gif" alt="Coding GIF" width="500">
+  <img src="https://img.shields.io/badge/imp1338-red?style=for-the-badge" alt="imp1338">
 </div>
 
 <!-- Introduction -->
-### Hi there, I'm imp1338! 🔥
+## Hi there, I'm imp1338! 🔥
 
-I'm an experienced developer with 8 years of coding under my belt. My passion lies in crafting innovative solutions and pushing boundaries in the realms of C++, C#, HTML, CSS, LUA, BATCH, KM, and Assembly. From kernels to front-end designs, I've dabbled in a diverse array of technologies, constantly seeking new challenges to conquer.
+I'm an experienced developer with 8 years of experience specializing in cyber security, malware analysis, and cheat development. My expertise lies in crafting innovative solutions and pushing boundaries in various programming languages including C++, C#, HTML, CSS, LUA, BATCH, KM, and Assembly. From kernel-level exploits to front-end designs, I've worked across a diverse array of technologies, constantly seeking new challenges to conquer.
 
 <!-- Technologies -->
-### 💻 Technologies & Tools:
+## 💻 Technologies & Tools:
 
 - C++
 - C#
@@ -26,28 +21,27 @@ I'm an experienced developer with 8 years of coding under my belt. My passion li
 - Assembly
 
 <!-- About Me -->
-### 🚀 About Me:
+## 🚀 About Me:
 
-- 🔭 I’m currently working on honing my skills in various programming languages.
-- 🌱 I’m currently learning about software architecture and design patterns.
-- 👯 I’m looking to collaborate on exciting and innovative projects.
-- 💬 Ask me about anything related to coding and development.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/imp1338/)
+- 🔭 Currently honing my skills in cyber security and malware analysis.
+- 🌱 Learning about advanced software architecture and design patterns.
+- 👯 Open to collaborating on challenging and innovative projects.
+- 💬 Feel free to reach out to me for anything related to coding, cyber security, or development.
+- 📫 Connect with me on [Discord](https://discordapp.com/users/1199548157554593893)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love experimenting with new coding techniques and languages, always chasing the thrill of discovery.
+- ⚡ Fun fact: I enjoy exploring new coding techniques and languages, always seeking the thrill of discovery.
 
 <!-- GitHub Stats -->
-### 📈 GitHub Stats:
+## 📈 GitHub Stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imp1338&show_icons=true&theme=dark" alt="imp1338's GitHub Stats">
 </div>
 
 <!-- Connect with Me -->
-### 🌐 Connect with Me:
+## 🌐 Connect with Me:
 
 [<img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 
 <!-- Links -->
 [linkedin]: https://www.linkedin.com/in/imp1338/
-
