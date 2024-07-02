@@ -36,11 +36,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imp1338&show_icons=true&theme=dark" alt="imp1338's GitHub Stats">
 </div>
-
-<!-- Connect with Me -->
-## 🌐 Connect with Me:
-
-[<img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-
-<!-- Links -->
-[linkedin]: https://www.linkedin.com/in/imp1338/
